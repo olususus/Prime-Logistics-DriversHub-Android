@@ -1,1 +1,1 @@
-[https://cdn.sprawdzany.pl/uploads/PrimeLogistics/logo.png]
+![Prime Logo](https://cdn.sprawdzany.pl/uploads/PrimeLogistics/logo.png)
